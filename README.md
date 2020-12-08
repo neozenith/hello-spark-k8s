@@ -16,3 +16,5 @@ kubectl port-forward service/spark-driver 8080:8080
 
 kubectl delete -f spark8s.yml
 ```
+
+![Screenshot of Spark UI showing 4 worker nodes](screenshot.png)

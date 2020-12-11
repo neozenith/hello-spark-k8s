@@ -28,5 +28,6 @@ kubectl delete -f spark8s.yml
 ![Screenshot of Spark UI showing 4 worker nodes](screenshot.png)
 
 # TODO:
+ - https://levelup.gitconnected.com/spark-on-kubernetes-3d822969f85b
  - https://kienmn97.medium.com/deployment-of-standalone-spark-cluster-on-kubernetes-ba15978658bf
  - https://kublr.com/blog/running-spark-with-jupyter-notebook-hdfs-on-kubernetes/

@@ -1,2 +1,7 @@
 **/.DS_Store
 **/target/
+.metals/
+.bloop/
+.vscode/
+telepresence.log
+**/metals.sbt
